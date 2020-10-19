@@ -1,7 +1,8 @@
 # blackbird
-blackbird an web app to chat within the community just like a slack
-Link to project
+# Link to project #
 https://bit.ly/2SSCbvM
+blackbird an web app to chat within the community just like a slack
+
 
 # How To Create A React App
 In Your Terminal 👇
