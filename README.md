@@ -1,20 +1,20 @@
-# blackbird
-# Link to project #
+## blackbird
+## Link to project 
 https://bit.ly/2SSCbvM
-blackbird an web app to chat within the community just like a slack
+blackbird a web app to chat within the community just like a slack
 
 
-# How To Create A React App
+## How To Create A React App
 In Your Terminal 👇
 1. npx create-react-app (Your Project Name)
 2. cd (Your Project)
 3. npm start
 
-# How to use material-ui (install material-ui in our project)
+## How to use material-UI (install material-UI in our project)
 1. npm i @material-ui/core
 2. npm i @material-ui/icons
 
-# How to install and use firebase into our project
+## How to install and use firebase into our project
 1. npm i firebase
 2. npm i firebase-tools
 3. firebase init
